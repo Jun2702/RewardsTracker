@@ -23,7 +23,7 @@ Installation Instructions
 
 3. Running the Application
    Windows:
-   - Double-click RewardsTracker.jar
+   - Double-click RewardsTracker.jar or RewardsTracker.bat
    OR
    - Open Command Prompt in the application folder
    - Type: java -jar RewardsTracker.jar
